@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Image.cpp
+  Image_main.cpp
+c:\users\falol\source\repos\assignment_2\assignment_2\image_main.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\falol\source\repos\assignment_2\assignment_2\image_main.cpp(342): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\falol\source\repos\assignment_2\assignment_2\image_main.cpp(375): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Assignment_2.vcxproj -> C:\Users\falol\source\repos\Assignment_2\x64\Debug\ImageFilter.exe
